@@ -1,3 +1,0 @@
-<?php
-// insert your api-key from https://developer.playbattlegrounds.com/
-$apiKey = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJlOTkwZWYzMC0xYTQwLTAxMzYtNjJiYS00ZmM4YmMzYjI1ZjkiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTIyODUxNDg0LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6Indlbm9ydCIsInNjb3BlIjoiY29tbXVuaXR5IiwibGltaXQiOjEwfQ.qTEZjTB2iE37S58LKkkJvAkcrLV3hVDjYVgsYSQwaUo"; 
